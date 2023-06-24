@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">aula1704</string>
+    <string name="titulo">Viagens</string>
+    <string name="cadastrar">Cadastre-se</string>
+    <string name="botao_login">Fazer login</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="login">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="voltar">Voltar</string>
+    <string name="destino">Destino</string>
+    <string name="data_inicio">Data de início</string>
+    <string name="data_final">Data final</string>
+    <string name="orcamento">Orçamento</string>
+    <string name="botao_nova_viagem">Salvar</string>
+    <string name="cadastrar_nome">Nome</string>
+</resources>
